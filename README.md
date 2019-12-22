@@ -1,4 +1,4 @@
-# vue-heavy-sample
+# vue-slow-performance-sample
 
 ## Project setup
 ```
